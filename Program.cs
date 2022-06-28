@@ -12,7 +12,7 @@ namespace testeGupy2 {
             j = int.Parse(Console.ReadLine());
 
 
-            for (int i = 0; i < 30; i++) {
+            for (int i = 0; i < 100; i++) {
 
                 fibonacci = x + y;
 
